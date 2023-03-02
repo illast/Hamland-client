@@ -1,0 +1,118 @@
+
+blood.png
+size: 2048, 2048
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+image0
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image1
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image15
+  rotate: false
+  xy: 0, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image2
+  rotate: false
+  xy: 1536, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image3
+  rotate: false
+  xy: 0, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image4
+  rotate: false
+  xy: 1024, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image5
+  rotate: false
+  xy: 512, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image6
+  rotate: false
+  xy: 1024, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image7
+  rotate: false
+  xy: 512, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image8
+  rotate: false
+  xy: 512, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image9
+  rotate: false
+  xy: 1536, 1024
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image10
+  rotate: false
+  xy: 1024, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image11
+  rotate: false
+  xy: 0, 1536
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image12
+  rotate: false
+  xy: 512, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image13
+  rotate: false
+  xy: 0, 0
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+image14
+  rotate: false
+  xy: 1024, 512
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
